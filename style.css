@@ -1,0 +1,29 @@
+body {
+    background-image: url(https://cdn.lynda.com/course/191341/191341-637286166269182356-16x9.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: inherit;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+#title {
+    text-align: center;
+    font-size: 40px;
+    color: black;
+    
+}
+
+#description {
+    text-align: center;
+    font-size: 18px;
+    color: black;
+}
+
+div {
+    font-size: 14px;
+    text-align: Center;
+    line-height: 2;
+    color: blue;
+}
+
