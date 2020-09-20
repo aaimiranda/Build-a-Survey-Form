@@ -31,5 +31,5 @@ $ cd surveyPage
 ```
 
 ## Screenshot
-![Alt text](/nsurvey-screenShot.png?raw=true)
+![Alt text](/survey-screenShot.png?raw=true)
 
