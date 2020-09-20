@@ -9,7 +9,7 @@ These files are part of the second work of the curriculum of the Responsive Web 
 * [Screenshot](#screenshot)
 
 ## General info
-These project is basically a simple webpage with a form to make a survey.
+This project is basically a simple webpage with a form to make a survey.
 	
 ## Technologies
 Project is created with:
